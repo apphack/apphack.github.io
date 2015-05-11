@@ -4,3 +4,14 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
 }
+h1 {
+  font-size: 3em;
+  font-family: sans-serif;
+  margin-top: 6em;
+  margin-bottom: 2em;
+  color: #848484;
+}
+h2 {
+  
+}
+
